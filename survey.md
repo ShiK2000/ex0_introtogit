@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Pink
+Favorite food: No particular answer
+Favorite musician/band:  BF
+Favorite movie: Legally Blond
+Requested grade in the course: 99
